@@ -18,3 +18,38 @@ total_fer: the number of children that would be born to each woman if the curren
 gdpp: the GDP per capita. Calculated as the Total GDP divided by the total population.
 Objective
 To group countries using socio-economic and health factors to determine the development status of the country.
+
+
+
+
+
+table of contents:
+Importing libraries
+Importing dataset
+Checking shape
+check data types and counts
+descriptive statistics
+identify missing data
+preprocessing and feature selection
+ Drop any non-numeric features (columns)
+Create a correlation map of features to explore relationships between features
+drawing a heatmap
+ Explore the continuous independent features against child_mort using scatter plots.
+Explore the continuous independent features against gdpp using scatter plots.
+scaling the data
+Create a pair plot
+selecting k
+Kmeans clustering
+Fitting a K-Means Model with the selected K value
+prediction and visualisation
+
+
+Installation:
+Numpy
+Pandas
+Sklearn
+Matplotlib
+Seaborn
+
+
+Credits: Marwa Nassar- Hyperiondev for the support
